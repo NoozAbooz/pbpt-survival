@@ -7,5 +7,8 @@ MCPI Revival: https://discord.com/invite/aDqejQGMMy
 
 Season 1 lasted from Jan 14, 2021 and ended on June 25, 2021. It ended as the world was too griefed with OP items and it was too filled with builds.
 
-Season 2 started on June 26. It used a amplified mountains biome seed to experiment around with how players and griefers adapted to everything being hard to reach due to the extreme height changes in different areas.
-It uses seed `-1965077007`
+Season 2 lasted from June 26 to July 7. It used a amplified mountains biome seed to experiment around with how players and griefers adapted to everything being hard to reach due to the extreme height changes in different areas.  
+- It uses seed `-1965077007`
+- And ended due to too much grief in the spawn area and not being fun to play in
+
+Season 3 started July 7. It went back to a flat world seed with spawn being on a island. 
