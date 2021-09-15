@@ -15,3 +15,4 @@ Season 3 started July 7. It went back to a flat world seed with spawn being on a
 
 Season 4 started July 30th
 
+Season 5 started September 15
