@@ -16,3 +16,7 @@ Season 3 started July 7. It went back to a flat world seed with spawn being on a
 Season 4 started July 30th
 
 Season 5 started September 15
+
+Season 6 started Novenber 6 on the world seed from the season 1 map. It started with the ban of the infamous MCPI server griefer "StevePi", in attempts to curb mass grief and specifically insane lag at spawn from the prior. 
+
+
