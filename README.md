@@ -2,10 +2,12 @@ This repo is used to store backups from various points throughout the history of
 
 PBPT is a 2b2t-like semi-anarchy server with a twist, it's meant for Minecraft Pi Edition, a 2013 MCPE 0.6.1 fork made for the Raspberry Pi. To join it, you must install MCPI Modded, available on pi-apps: https://github.com/Botspot/pi-apps. 
 
-PBPT Disocrd Server: https://discord.gg/uUMCMAcFcF
+PBPT Disocrd Server: https://discord.gg/uUMCMAcFcF  
 MCPI Revival (creators of mod): https://discord.com/invite/aDqejQGMMy
 
 To use the world downloads, just extract a backup and copy the `games/com.mojang/minecraftWorlds/world/` folder to `~/.minecraft-pi/games/com.mojang/minecraftWorlds/` (optionally rename the folder). Then just boot up MCPI and load the world! For season one backups, you'll need to cooy `mcpi-survival-server/games/com.mojang/minecraftWorlds/world/` instead.
+
+Every new season started on or a day after the last one ended
 
 Season 1 lasted from Jan 14, 2021 and ended on June 25, 2021. It ended as the world was too griefed with OP items and it was too filled with builds.
 
