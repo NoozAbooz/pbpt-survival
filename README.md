@@ -5,7 +5,7 @@ PBPT is a 2b2t-like semi-anarchy server with a twist, it's meant for Minecraft P
 PBPT Disocrd Server: https://discord.gg/uUMCMAcFcF  
 MCPI Revival (creators of mod): https://discord.com/invite/aDqejQGMMy
 
-To use the world downloads, just extract a backup and copy the `games/com.mojang/minecraftWorlds/world/` folder to `~/.minecraft-pi/games/com.mojang/minecraftWorlds/` (optionally rename the folder). Then just boot up MCPI and load the world! For season one backups, you'll need to cooy `mcpi-survival-server/games/com.mojang/minecraftWorlds/world/` instead.
+To use the world downloads, just extract a backup and copy the `games/com.mojang/minecraftWorlds/world/` folder to `~/.minecraft-pi/games/com.mojang/minecraftWorlds/` (optionally rename the folder). Then just boot up MCPI and load the world! For season one backups, you'll need to copy `mcpi-survival-server/games/com.mojang/minecraftWorlds/world/` instead.
 
 Every new season started on or a day after the last one ended
 
