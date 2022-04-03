@@ -23,6 +23,6 @@ Season 5 started September 15
 
 Season 6 started Novenber 6 on the world seed from the season 1 map. It started with the ban of the infamous MCPI server griefer "StevePi", in attempts to curb mass griefs and specifically the insane lag at spawn from the prior. 
 
-Season 7 started [TBD] and had the notable addition of a antigrief, to stop the mass griefing which caused lag to the server.
+Season 7 started March 27 and had the notable addition of a antigrief, to stop the mass griefing which caused lag to the server.
 
 
