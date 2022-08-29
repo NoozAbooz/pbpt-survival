@@ -54,4 +54,7 @@ Started March 27 and had the notable addition of a anti-grief (in the form of an
 ## Season 8 
 Started June 25th, 2022. The world had lots of lava grief by the end of S7, and a new anti-grief plugin blocking lava, nether reactors, and tnt was added in S8.
 
+## Season 9
+Started August 22nd, 2022. It was mainly started due to world grief/lack of moderation and to switch hosting providers. 
+
 
