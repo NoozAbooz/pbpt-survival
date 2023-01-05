@@ -67,5 +67,7 @@ Started August 22nd, 2022
 Started Nov 2nd, 2022
 
 ## Season 11
+Started Jan 5th, 2023
 - Marked a new turning point for the server. As grief was not combatable, the server was modified to have it's world reset every week, with a backup uploaded right after. 
+- New seasons would start every month
 
