@@ -37,7 +37,8 @@ Lasted from June 26 to July 7. It used a amplified mountains biome seed to exper
 - And ended due to too much grief in the spawn area and not being fun to play in
 
 ## Season 3 
-Started July 7. It went back to a flat world seed with spawn being on a island. 
+Started July 7
+- It went back to a flat world seed with spawn being on a island. 
 
 ## Season 4 
 Started July 30th. 
@@ -46,15 +47,25 @@ Started July 30th.
 Started September 15
 
 ## Season 6 
-Started Novenber 6 on the world seed from the season 1 map. It started with the ban of the infamous MCPI server griefer "StevePi", in attempts to curb mass griefs and specifically the insane lag at spawn from the prior. The server changed from PBPT-Anarchy to PBPT-Survival. A whitelist had to be added for a short amount of time. 
+Started Novenber 6 
+- Used the world seed from the season 1 map
+- It started with the ban of the infamous MCPI server griefer "StevePi", in attempts to curb mass griefs and specifically the insane lag at spawn from the prior. The server changed from PBPT-Anarchy to PBPT-Survival. A whitelist had to be added for a short amount of time. 
 
 ## Season 7 
-Started March 27 and had the notable addition of a anti-grief (in the form of an anti-TNT mod and anti-nether reactor mod), to stop the mass griefing which caused lag to the server. 
+Started March 27
+- Had the notable addition of a anti-grief (in the form of an anti-TNT mod and anti-nether reactor mod), to stop the mass griefing which caused lag to the server. 
 
 ## Season 8 
-Started June 25th, 2022. The world had lots of lava grief by the end of S7, and a new anti-grief plugin blocking lava, nether reactors, and tnt was added in S8.
+Started June 25th, 2022
+- The world had lots of lava grief by the end of S7, and a new anti-grief plugin blocking lava, nether reactors, and tnt was added in S8.
 
 ## Season 9
-Started August 22nd, 2022. It was mainly started due to world grief/lack of moderation and to switch hosting providers. 
+Started August 22nd, 2022
+- Mainly started due to world grief/lack of moderation and to switch hosting providers. 
 
+## Season 10
+Started Nov 2nd, 2022
+
+## Season 11
+- Marked a new turning point for the server. As grief was not combatable, the server was modified to have it's world reset every week, with a backup uploaded right after. 
 
